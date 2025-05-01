@@ -83,7 +83,7 @@
                                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                                 <div>
                                     <h3>Location</h3>
-                                    <p>Lagos, Nigeria</p>
+                                    <p>Kajola Street, Ikere Ekiti State</p>
                                 </div>
                             </div>
 
